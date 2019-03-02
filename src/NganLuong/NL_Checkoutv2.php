@@ -7,10 +7,10 @@
 *		Người dùng không thể tự động sửa được giá trị tham số giao tiếp giữa website của bạn và NgânLượng.vn nếu như không biết chính xác tham số bạn đã lưu và mật khẩu giao tiếp là gì.
 **/
 
-namespace Nganluong;
+namespace NganLuong;
 class NL_Checkoutv2
 {
-	public function test()
+	public static function test()
 	{
 
 	}
