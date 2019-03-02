@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jacksonit\\NganLuong\\": "src/"
+            "NganLuong\\": "src/"
         }
     }
 }

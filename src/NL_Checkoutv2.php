@@ -7,9 +7,13 @@
 *		Người dùng không thể tự động sửa được giá trị tham số giao tiếp giữa website của bạn và NgânLượng.vn nếu như không biết chính xác tham số bạn đã lưu và mật khẩu giao tiếp là gì.
 **/
 
-namespace jacksonit\NL_Checkoutv2;
+namespace Nganluong;
 class NL_Checkoutv2
 {
+	public function test()
+	{
+
+	}
 	// Địa chỉ thanh toán hoá đơn của NgânLượng.vn
 	public $nganluong_url = 'https://www.nganluong.vn/checkout.php';
 	// Mã website của bạn đăng ký trong chức năng tích hợp thanh toán của NgânLượng.vn.
